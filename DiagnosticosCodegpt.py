@@ -227,7 +227,7 @@ class FixWorker(QThread):
 class CodeGPTTroubleshooter(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Diagnóstico de Extensión CodeGPT")
+        self.setWindowTitle("Diagnóstico de la Extensión CodeGPT")
         self.setGeometry(100, 100, 800, 600)
         self.setup_ui()
         self.setup_styles()
