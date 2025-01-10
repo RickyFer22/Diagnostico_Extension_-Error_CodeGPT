@@ -1,0 +1,2 @@
+# Diagnostico_Extension_-Error_CodeGPT
+Diagnóstico_Extensión_ Error_CodeGPT
