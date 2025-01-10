@@ -1,4 +1,4 @@
-![Diagnóstico CodeGPT](./Dianostico Extensión CodeGPT.png)
+![Diagnóstico CodeGPT](./appCodeGPT.png)
 
 # Herramienta_Diagnóstico_Extensión_ Error_CodeGPT
 
